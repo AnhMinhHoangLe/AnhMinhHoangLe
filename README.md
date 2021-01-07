@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hi there</h1>
+<h1 align="center">Hi there 👋</h1>
 <h2 align="center">I'm Anh Le - A passionate Software Engineer/ Developer</h2> 
 <h3>QUICK BIO</h3>
 <div >
