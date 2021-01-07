@@ -1,9 +1,20 @@
 ## <h1 align="center"> Hi there </h1>
 <h2 align="center">I'm Anh Le - A passionate Software Engineer/ Developer</h2> 
 
+# <p align="center"> You can reach me at :alien: </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anh-le-69m98/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anh Le's LinkedIn Profile" height="30" width="30">
+    LinkedIn
+  </a>
+  <a href="https://anhminhhoangle.github.io/porfo-al/">
+  <img src='https://www.flaticon.com/svg/static/icons/svg/3165/3165583.svg'/ height="30" width="30"  alt="Anh Le's  portfolio">Porfolio</a>
+</p>
+
 <br/> 
 
-# <p align='center' > `Quick Bio` </p> 
+## <h1 align="center"> QUICK BIO </h1>
 
 **Talking about Personal Stuffs:**
 
@@ -17,9 +28,10 @@
 -  Interested in solving complicated problems
 -  Time-management
 
-<br/> 
+<br/>
 
-# <p align='center' > `My Tech Stack` </p>
+## <h1 align="center"> MY TECH STACK </h1>
+
 
 <img align="left" alt="GIF" src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif" width="300" height="500" />
 
@@ -61,8 +73,10 @@
 ![Adobe XD](http://img.shields.io/badge/-Abode%20Xd-000000?style=flat-square&logo=adobe-xd&logoColor=ff69b4)
 ![Figma](http://img.shields.io/badge/-Figma-545454?style=flat-square&logo=figma&logoColor=ff69b4)
 
+<br/>
 
-# <p align='center' > `EDUCATION / CERTIFICATE` </p> 
+## <h1 align="center"> EDUCATION / CERTIFICATE </h1>
+
 <p align="center"><img src='https://logos-download.com/wp-content/uploads/2019/06/San_Jose_State_University_Logo.png' alt='San Jose State University' height="100" width="100"></p>
 
 #### <p align="center"> Bachelor of Science, Software Engineering  </p>
@@ -74,19 +88,12 @@
 
 <br />
 
-# <p align="center"> You can reach me at :alien: </p>
+## <h1 align="center"> VISITOR'S COUNT :eyes: </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anh-le-69m98/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anh Le's LinkedIn Profile" height="30" width="30">
-    LinkedIn
-  </a>
-  <a href="https://anhminhhoangle.github.io/porfo-al/">
-  <img src='https://www.flaticon.com/svg/static/icons/svg/3165/3165583.svg'/ height="30" width="30"  alt="Anh Le's  portfolio">Porfolio</a>
-</p>
-<h4 align="center">Visitor's count :eyes:</h4> 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhMinhHoangLe}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-<h4 align="center">Github stats :bar_chart:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhMinhHoangLe}/count.svg" alt="AnhMinhHoangLe :: Visitor's Count" /></p>
+
+## <h1 align="center"> GITHUB STATS :bar_chart:</h1>
+
 <p align= "center" > <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnhMinhHoangLe&show_icons=true&include_all_commits=true&theme=material-palenight" alt="AnhMinhHoangLe's github stats" />
   
 <h4 align="center">Top langs :tongue:</h4>
