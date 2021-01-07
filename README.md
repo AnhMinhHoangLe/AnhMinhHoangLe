@@ -19,6 +19,47 @@
 
 <br/> 
 
+# <p align='center' > `My Tech Stack` </p>
+
+![Python](http://img.shields.io/badge/-Python-3377AA?style=flat-square&logo=python&logoColor=BADA55)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+
+#### Frontend
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Scss](https://img.shields.io/badge/-Scss-%23CC6699?style=flat-square&logo=scss&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+
+#### Framework/ Library
+
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-%23282C34?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-%23282C34?style=flat-square&logo=django)
+
+### Database/ SQL
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-FireBase-336791?style=flat-square&logo=firebase)
+![SQLite3](https://img.shields.io/badge/-SQLite3-336791?style=flat-square&logo=sqlite)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-336791?style=flat-square&logo=sqlalchemy)
+
+### OS/ Version Control
+![Linux](http://img.shields.io/badge/-Linux-A81D33?style=flat-square&logo=linux&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+### Others
+
+![JSON](http://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=ffffff)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-007ACC?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20Xd-000000?style=flat-square&logo=adobe-xd&logoColor=ff69b4)
+![Figma](http://img.shields.io/badge/-Figma-545454?style=flat-square&logo=figma&logoColor=ff69b4)
+
+
 # <p align='center' > `EDUCATION / CERTIFICATE` </p> 
 <p align="center"><img src='https://logos-download.com/wp-content/uploads/2019/06/San_Jose_State_University_Logo.png' alt='San Jose State University' height="100" width="100"></p>
 
