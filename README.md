@@ -21,6 +21,8 @@
 
 # <p align='center' > `My Tech Stack` </p>
 
+<img align="left" alt="GIF" src="https://64.media.tumblr.com/51015ec638a516f7f7d353ca198a5091/tumblr_pdbo9wBAe11xd0gvgo1_1280.gif" width="300" height="500" />
+
 ![Python](http://img.shields.io/badge/-Python-3377AA?style=flat-square&logo=python&logoColor=BADA55)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
